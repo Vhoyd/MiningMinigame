@@ -1,0 +1,40 @@
+name: miningMinigame
+version: 1.0
+author: Vhoyd
+main: me.Vhoyd.miningMinigame.Main
+description: fun pvp/mining minigame
+api-version: 1.13
+
+depend: [utility]
+
+commands:
+    trader:
+        aliases:
+        description: debug
+    lefthand:
+        aliases:
+        description: test
+    deathsound:
+        aliases:
+        description: customize what sound plays when you die
+    item:
+        aliases:
+        description: debug
+    peek:
+        aliases:
+        description: view another player's inventory
+    hide:
+        aliases:
+        description: hide from all players
+    show:
+        aliases:
+        description: show to all players
+    spin:
+        aliases:
+        description: testing particles
+    pteam:
+        aliases:
+        description: team handling
+    hand:
+        aliases:
+        description: brag your hand
